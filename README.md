@@ -30,24 +30,18 @@
 ###
 
 <div align="left">
-  <a href = 'https://www.instagram.com/_dilmika?igsh=dGxpMWV5M2I1cGoz' target = '_blank'>
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <a href="https://www.instagram.com/_dilmika?igsh=dGxpMWV5M2I1cGoz" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-    <a href = 'https://www.instagram.com/_dilmika?igsh=dGxpMWV5M2I1cGoz' target = '_blank'>
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-    </a>
-    <a href = 'dilmikacontact@gmail.com' target = '_blank'>
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-    </a>
-    <a href = 'www.linkedin.com/in/dilmika-sahan-509a202b6' target = '_blank'>
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-    </a>
-    <a href = 'https://www.facebook.com/dilmika.sahan.5?mibextid=ZbWKwL' target = '_blank'>
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-    </a>
-    <a href = 'https://www.instagram.com/_dilmika?igsh=dGxpMWV5M2I1cGoz' target = '_blank'>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-    </a>
+  <a href="https://dilmikacontact@gmail.com/my-DilmikaSahan" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="www.linkedin.com/in/dilmika-sahan-509a202b6" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.facebook.com/dilmika.sahan.5?mibextid=ZbWKwL" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  </a>
 </div>
 
 ###
