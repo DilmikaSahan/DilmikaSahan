@@ -1,5 +1,6 @@
 <div align="center">
-  <h1>👋 Hello, I'm Dilmika Sahan</h1>
+  <img src="https://68.media.tumblr.com/61d4fea89f86eb4cb5a7e616d9cd4832/tumblr_owi25v6uAo1r4gsiio1_1280.gif" / >
+  <h1>Hello, I'm Dilmika Sahan</h1>
   <p><em>Full-Stack Developer | Software Engineer | AI/ML Enthusiast</em></p>
   
   <p>
@@ -15,18 +16,36 @@
 
 ---
 
-## 🚀 About Me
+## About Me
+
+<table style="border-style: none;">
+  <tr>
+    <td>
+      <p>I am a full-stack developer passionate about building software solutions, full-stack web applications, and AI/ML solutions.</p>
+      <p>Location: Sri Lanka 🇱🇰</p>
+      <p>Open to Work:</p>
+      <ul>
+        <li>On-site [🇱🇰]</li>
+        <li>Hybrid</li>
+        <li>Remote</li>
+      </ul>
+    </td>
+    <td>
+      <img src="assets/022Fl.gif" width="200" height="200"/>
+    </td>
+  </tr>
+</table>
+
 
 ```typescript
 const dilmika = {
   location: "Sri Lanka 🇱🇰",
   role: "Full-Stack Developer",
   technologies: {
-    backend: ["Java", "Spring Boot", "C#", ".NET", "Python", "C/C++"],
+    backend: ["Java", "Spring Boot","Python"],
     frontend: ["Angular", "TypeScript", "HTML5", "CSS3"],
     databases: ["MySQL", "PostgreSQL", "MongoDB"],
     tools: ["Git", "Docker", "VS Code", "IntelliJ IDEA"],
-    aiml: ["TensorFlow", "PyTorch", "Scikit-learn", "Pandas", "NumPy"]
   },
   currentFocus: "Building scalable web applications and exploring AI/ML solutions",
   hobbies: ["Problem Solving", "Open Source", "Learning New Technologies"]
@@ -41,7 +60,7 @@ const dilmika = {
 
 ### Backend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,python,cs,dotnet,cpp,c" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python" />
 </p>
 
 ### Frontend Development
@@ -53,30 +72,10 @@ const dilmika = {
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,git,docker,vscode,idea" />
 </p>
-
-### AI/ML & Data Science
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="48" height="48"/>
-</p>
-
 </div>
 
 ---
 
-
-## 🎯 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| **🏦 Seettu Management System** | A comprehensive system for managing rotating savings and credit associations (ROSCAs) | Java, Spring Boot, MySQL | [View Repo](https://github.com/DilmikaSahan/seettu-management-system) |
-| **⚡ CEB Application** | Ceylon Electricity Board application for utility management and billing | .NET, C#, SQL Server | [View Repo](https://github.com/DilmikaSahan/CEB-Application) |
-| **🧮 Simple Calculator** | A clean, functional desktop calculator application | Java, Swing/JavaFX | [View Repo](https://github.com/DilmikaSahan/simple-Claculator) |
-
-</div>
 
 ---
 
