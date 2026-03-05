@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://68.media.tumblr.com/61d4fea89f86eb4cb5a7e616d9cd4832/tumblr_owi25v6uAo1r4gsiio1_1280.gif" />
+  <img src="assets/tumblr_owi25v6uAo1r4gsiio1_1280.gif" />
   <h1>Hello, I'm Dilmika Sahan</h1>
   <p><em>Full-Stack Developer | Software Engineer | AI/ML Enthusiast</em></p>
   
